@@ -221,17 +221,7 @@ Android APP渗透测试技术文章路线，大致会围绕下面三个阶段开
 
 [\[车联网安全自学篇\] Android安全之APK内存敏感信息泄露挖掘「动态分析」](https://orangey.blog.csdn.net/article/details/126600829)
 
-[\[免费专栏\] 车联网基础理论之车联网安全车端知识科普](https://orangey.blog.csdn.net/article/details/126696631)
 
-[\[免费专栏\] 车联网基础理论之车联网安全常见术语科普](https://orangey.blog.csdn.net/article/details/127250137)
-
-[\[免费专栏\] ATTACK安全之检测车机中ADB远程调试控制Android系统攻击](https://orangey.blog.csdn.net/article/details/126464387)
-
-[\[免费专栏\] ATTACK安全之Android ICMP隧道攻击原理与入侵检测实践](https://orangey.blog.csdn.net/article/details/126464584)
-
-[\[免费专栏\] ATTACK安全之Android 车机设备中监控命令执行的一些想法「概念篇」](https://orangey.blog.csdn.net/article/details/126290933)
-
-[\[免费专栏\] ATTACK安全之Android车机证书攻击场景检测「检测系统代理」](https://orangey.blog.csdn.net/article/details/126500582)
 
 
 
@@ -280,6 +270,19 @@ Android APP渗透测试技术文章路线，大致会围绕下面三个阶段开
 
 
 # 0x07 【专栏】车联网安全自学篇之杂项[免费专栏]
+
+[\[免费专栏\] 车联网基础理论之车联网安全车端知识科普](https://orangey.blog.csdn.net/article/details/126696631)
+
+[\[免费专栏\] 车联网基础理论之车联网安全常见术语科普](https://orangey.blog.csdn.net/article/details/127250137)
+
+[\[免费专栏\] ATTACK安全之检测车机中ADB远程调试控制Android系统攻击](https://orangey.blog.csdn.net/article/details/126464387)
+
+[\[免费专栏\] ATTACK安全之Android ICMP隧道攻击原理与入侵检测实践](https://orangey.blog.csdn.net/article/details/126464584)
+
+[\[免费专栏\] ATTACK安全之Android 车机设备中监控命令执行的一些想法「概念篇」](https://orangey.blog.csdn.net/article/details/126290933)
+
+[\[免费专栏\] ATTACK安全之Android车机证书攻击场景检测「检测系统代理」](https://orangey.blog.csdn.net/article/details/126500582)
+
 [\[免费专栏\] Android安全之APK逆向入门介绍](https://orangey.blog.csdn.net/article/details/127281247)
 
 [\[免费专栏\] Android安全之Android加密算法浅析](https://orangey.blog.csdn.net/article/details/126219765)
