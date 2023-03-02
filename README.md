@@ -6,18 +6,19 @@ Link: To be updated
 
 |Columns|Content|
 |--|--|
-| **Cart Security Self-learning Chapter of Android Security** | Online notes on learning Android security and practical operations from scratch, including the basic chapter [suitable for white people] |
-| | Android Security T** | Android Security T** | Android Security T** | Android Security T** | Android Security T**
-| Android Security J** | Android Security J** | Android Security J** | Android Security J** | Android Security J**
-| The first time I saw a car, I was able to get to the top of the list.
-| **Car Hacking** | Online notes on anti-intrusion security and practice from scratch, ATTACK anti-intrusion research, including the basics [for Android anti-intrusion field whites] |
-| **Cart Security Self-Study - ATTACK Advanced** | Online notes on anti-intrusion security and practice from scratch, ATTACK anti-intrusion research, including the improvement chapter [for Android anti-intrusion students with some basic knowledge] | **Cart Security Self-Study - ATTACK Advanced** | **Cart Security Self-Study - ATTACK Advanced
-| **Car ATTACK Matrix** | The later plan to write a series of columns on the road to security operations (Car ATTACK Matrix) |
 
-| **Miscellaneous [free column]** | Part of the paid column articles [white floating monster favorite -_- hehehe]. If you reconstruct the content of the original article paid, will not be updated or modified in the free column |
-| **Java Code Audit** | Online Notes on Java Code Audit Practices|
-| **Web Attack and Defense** | Online Notes on Web Security Attack and Defense in Action |
-| | **Park Life Bookstore** | Orange Liuxiang students personal life emotional annoyance |
+| **Android Security for Self-learning of Telematics Security**   |  Online notes on learning Android security and practical operations from scratch, including the basic chapter 【for whites】  |
+| **Self-learning chapter of Android security T**   |  Online notes on learning Android security and practical operations from scratch, including the improvement chapter 【for students with some basic knowledge】  |
+| **Android security J of the self-study chapter of car network security**   |  Online notes on learning Android security and practical operations from scratch, including the advanced chapter 【for students with some basic knowledge】  |
+| **Car Hacking, a self-learning chapter on connected car security**   |   Car Hacking, Buddhist updates, limited energy, the column is mainly the author from zero to learn Car Hacking required security skills and practical operation of the online pen |
+| **ATTACK, a self-learning chapter on connected car security**   |  Online notes on anti-intrusion security and practical operations from scratch, ATTACK anti-intrusion research, including the basics 【for Android anti-intrusion field whites】  |
+| **ATTACK Advancement of Telematics Safety Self-Study**   |  Online notes on anti-intrusion security and practical operations from scratch, ATTACK anti-intrusion research, including the improvement chapter 【for students with a certain foundation in the field of Android anti-intrusion】  |
+| **Car ATTACK Matrix, a self-learning chapter on connected car security**   |  Later plans to write a series of columns for the Car ATTACK Matrix  |
+| **Telematics Security Self-Study Part of Car Threat Hunting**   |  Post-program to be written on the road to secure operations (Automotive Threat Hunting) Column series  |
+| **Self-learning chapter of car network security of miscellaneous 【free column】**   |  Part of the paid column articles 【white floating monster favorite -_- hehehe】. If the content of the original paid article is reconstructed, it will not be updated or modified in the free column  |
+|  **Java Code Audit** |    Online notes on Java code auditing practices in action |
+| **Web Attack and Defense**  |  Online Notes on Web Security Attack and Defense Practice Operations   |
+|  **Park Life Bookstore** |  The annoyance of the personal life emotions of the students of Orange Liuxiang   |
 
 ![](https://github.com/OrangeyPark/OrangeyPark-Android-Demo-APK/blob/main/gNXxK.png)
 
